@@ -1,0 +1,6 @@
+c:\users\dravi\documents\visual studio 2017\Projects\Odwracanie tablic (metody)\Odwracanie tablic (metody)\bin\Debug\Odwracanie tablic (metody).exe.config
+c:\users\dravi\documents\visual studio 2017\Projects\Odwracanie tablic (metody)\Odwracanie tablic (metody)\bin\Debug\Odwracanie tablic (metody).exe
+c:\users\dravi\documents\visual studio 2017\Projects\Odwracanie tablic (metody)\Odwracanie tablic (metody)\bin\Debug\Odwracanie tablic (metody).pdb
+c:\users\dravi\documents\visual studio 2017\Projects\Odwracanie tablic (metody)\Odwracanie tablic (metody)\obj\Debug\Odwracanie tablic (metody).csprojResolveAssemblyReference.cache
+c:\users\dravi\documents\visual studio 2017\Projects\Odwracanie tablic (metody)\Odwracanie tablic (metody)\obj\Debug\Odwracanie tablic (metody).exe
+c:\users\dravi\documents\visual studio 2017\Projects\Odwracanie tablic (metody)\Odwracanie tablic (metody)\obj\Debug\Odwracanie tablic (metody).pdb
